@@ -146,8 +146,8 @@ If you place the notebook and CSV in a subfolder, update the CSV path in the not
 Replace the placeholder with your public GitHub repository URL:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/lavbhatia07/Datheon_Machine_Learning_-_Data_Science_Internship
+cd Task 1
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
@@ -237,14 +237,6 @@ The best-performing model should be reported based on the actual results from yo
 
 **Lav Bhatia**  
 Computer Science & Information Technology student
-
-> Update this section with your GitHub profile and LinkedIn profile links before publishing, if desired.
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes. Add a license file if you want to specify reuse and distribution terms.
-
----
 
 <div align="center">
 
