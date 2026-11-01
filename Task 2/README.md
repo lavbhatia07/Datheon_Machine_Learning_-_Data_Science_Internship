@@ -194,8 +194,8 @@ Computer Science & Information Technology Student
 
 Interested in Machine Learning, Data Science, and Artificial Intelligence.
 
-- GitHub: [Your GitHub Profile](https://github.com/lavbhatia07)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/lav-bhatia-23b24733b)
+- GitHub:(https://github.com/lavbhatia07)
+- LinkedIn:(https://www.linkedin.com/lav-bhatia-23b24733b)
 
 ---
 
