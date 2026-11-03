@@ -181,7 +181,7 @@ customer-churn-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
+git clone https://github.com/lavbhatia07/Datheon_Machine_Learning_-_Data_Science_Internship.git
 cd <your-repository>
 ```
 
