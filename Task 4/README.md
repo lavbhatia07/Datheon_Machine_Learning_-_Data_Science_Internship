@@ -222,7 +222,7 @@ The `.pkl` files are generated after running the notebook's model-saving cell.
 
 ```bash
 git clone https://github.com/lavbhatia07/Datheon_Machine_Learning_-_Data_Science_Internship.git
-cd <your-repository>
+cd Datheon_Machine_Learning_-_Data_Science_Internship
 ```
 
 ### 2. Create a virtual environment
