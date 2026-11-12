@@ -24,8 +24,8 @@ The repository contains four projects:
 
 1. Iris Classification Benchmark
 2. Real Estate Housing Price Prediction
-3. NLP Sentiment Classification
-4. Customer Churn Prediction
+3. Customer Churn Prediction
+4. NLP Sentiment Classification
 
 Each project demonstrates relevant stages such as data exploration, preprocessing, model training, evaluation, and interpretation.
 
@@ -65,7 +65,23 @@ Predicts housing prices using available property-related features.
 
 ---
 
-### 3. 💬 NLP Sentiment Classification
+### 3. 📊 Customer Churn Prediction
+
+**Problem type:** Classification
+
+Predicts whether a customer is likely to leave a service using customer-related information.
+
+**Work carried out**
+- Explored and prepared the customer churn dataset.
+- Built a preprocessing and modelling workflow.
+- Addressed class imbalance during model training.
+- Evaluated model performance and examined feature importance.
+
+**Algorithms and techniques:** Random Forest, XGBoost, class balancing, feature importance
+
+---
+
+### 4. 💬 NLP Sentiment Classification
 
 **Problem type:** Natural Language Processing / Classification
 
@@ -80,22 +96,6 @@ Classifies text reviews as **positive (1)** or **negative (0)** using text-proce
 **Algorithms and techniques:** TF-IDF, Multinomial Naive Bayes, Logistic Regression, text preprocessing
 
 > **Dataset note:** The supplied dataset contains 10 original records. One record has a missing sentiment label, leaving 9 usable records (5 positive and 4 negative). Results from this small dataset should be treated as a workflow exercise, not as evidence of production-level performance.
-
----
-
-### 4. 📊 Customer Churn Prediction
-
-**Problem type:** Classification
-
-Predicts whether a customer is likely to leave a service using customer-related information.
-
-**Work carried out**
-- Explored and prepared the customer churn dataset.
-- Built a preprocessing and modelling workflow.
-- Addressed class imbalance during model training.
-- Evaluated model performance and examined feature importance.
-
-**Algorithms and techniques:** Random Forest, XGBoost, class balancing, feature importance
 
 ---
 
@@ -144,22 +144,18 @@ datheon-internship/
 │   ├── dataset/
 │   └── README.md
 │
-├── NLP-Sentiment-Classification/
-│   ├── notebook/
-│   ├── dataset/
-│   ├── requirements.txt
-│   └── README.md
-│
 └── Customer-Churn-Prediction/
+|   ├── notebook/
+|    ├── dataset/
+|    ├── requirements.txt
+|    └── README.md
+|
+├── NLP-Sentiment-Classification/
     ├── notebook/
     ├── dataset/
     ├── requirements.txt
     └── README.md
 ```
-
-*Update the folder and file names above to match your actual repository.*
-
----
 
 ## 🎯 Key Learnings
 
@@ -184,8 +180,8 @@ This experience helped me connect theoretical concepts with practical implementa
 
 **Lav Bhatia**
 
-- GitHub: [Add your GitHub profile link](https://github.com/)
-- LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/)
+- GitHub: [ GitHub profile link](https://github.com/lavbhatia07)
+- LinkedIn: [ LinkedIn profile link](https://www.linkedin.com/in/lav-bhatia-23b24733b/)
 
 ---
 
